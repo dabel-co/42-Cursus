@@ -1,7 +1,6 @@
 # My 42 Cursus!
 
 All my work for 42 school. 
-#
 |  Name | Description  | Status 
 | -- | -- | -- |
 |[Libft](https://github.com/dabel-co/Libft) | My own C library (mandatory + bonus + some useful functions) | [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/Libft)](https://github.com/JaeSeoKim/badge42)
