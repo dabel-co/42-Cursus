@@ -9,3 +9,5 @@ All my work for 42 school.
 |Born2beRoot|Sysadmin stuff (hardened ssh, sudo and password policies and some light scripting)| [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/Born2beroot)](https://github.com/JaeSeoKim/badge42)
 |[FdF](https://github.com/dabel-co/FdF)|Representing map isometrically with MiniLibx | [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/FdF)](https://github.com/JaeSeoKim/badge42)
 |[Push_swap](https://github.com/dabel-co/push_swap)|Sorting numbers with a limited set of instructions| [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/push_swap)](https://github.com/JaeSeoKim/badge42)
+|[Minitalk](https://github.com/dabel-co/minitalk)|small data exchange program using UNIX signals.| [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/minitalk)](https://github.com/JaeSeoKim/badge42)
+|[Minishell](https://github.com/dabel-co/minishell)|Bash like shell| [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/minishell)](https://github.com/JaeSeoKim/badge42)
