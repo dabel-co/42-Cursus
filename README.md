@@ -11,3 +11,4 @@ All my work for 42 school.
 |[Push_swap](https://github.com/dabel-co/push_swap)|Sorting numbers with a limited set of instructions| [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/push_swap)](https://github.com/JaeSeoKim/badge42)
 |[Minitalk](https://github.com/dabel-co/minitalk)|small data exchange program using UNIX signals.| [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/minitalk)](https://github.com/JaeSeoKim/badge42)
 |[Minishell](https://github.com/dabel-co/minishell)|Bash like shell| [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/minishell)](https://github.com/JaeSeoKim/badge42)
+|[Philosophers](https://github.com/dabel-co/Philosophers)| Threads / mutex | [![dabel-co's 42Project Score](https://badge42.herokuapp.com/api/project/dabel-co/philosophers)](https://github.com/JaeSeoKim/badge42)
