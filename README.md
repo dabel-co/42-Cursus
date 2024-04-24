@@ -13,7 +13,7 @@ All my work for 42 school listed in reverse chronological order.
 |NetWhat|Networking quiz| [![dabel-co's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1ar6d3q001109js4aazmc5m/project/2168993)](https://github.com/JaeSeoKim/badge42)
 |Born2beRoot|Sysadmin stuff (hardened ssh, sudo and password policies and some light scripting)| [![dabel-co's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1ar6d3q001109js4aazmc5m/project/2323025)](https://github.com/JaeSeoKim/badge42)
 |[Ft_printf](https://github.com/dabel-co/ft_printf)|Same as printf!| [![dabel-co's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1ar6d3q001109js4aazmc5m/project/2323025)](https://github.com/JaeSeoKim/badge42)
-|[Get Next Line](https://github.com/dabel-co/get_next_line)| Function that returns a line, read from a file descriptor| [![dabel-co's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1ar6d3q001109js4aazmc5m/project/2161904)](https://github.com/JaeSeoKim/badge42)
+|[Get Next Line](https://github.com/dabel-co/get_next_line)| Function that returns a line from a file descriptor| [![dabel-co's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1ar6d3q001109js4aazmc5m/project/2161904)](https://github.com/JaeSeoKim/badge42)
 |[Libft](https://github.com/dabel-co/Libft) | My own C library (mandatory + bonus + some useful functions) |
 
 
