@@ -3,7 +3,7 @@
 All my work for 42 school listed in reverse chronological order.
 |  Name | Description 
 | -- | -- |
-|[C++ (8 projects)](https://github.com/dabel-co/Cplusplus)| C++ from start to finish | Multiple marks
+|[C++ (10 projects)](https://github.com/dabel-co/Cplusplus)| C++ from start to finish | Multiple marks
 |[Cub3D](https://github.com/dabel-co/cub3d)| 3D Videogame with RayCaster & miniLibX
 |[Minishell](https://github.com/dabel-co/minishell)|Bash like shell| [![dabel-co's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1ar6d3q001109js4aazmc5m/project/2457799)](https://github.com/JaeSeoKim/badge42)
 |[Philosophers](https://github.com/dabel-co/Philosophers)| Threads / mutex | [![dabel-co's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1ar6d3q001109js4aazmc5m/project/2457801)](https://github.com/JaeSeoKim/badge42)
