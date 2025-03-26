@@ -1,8 +1,11 @@
 # My 42 Cursus!
 
 All my work for 42 school listed in reverse chronological order.
+
 |  Name | Description 
 | -- | -- |
+|[ft_ping](https://github.com/dabel-co/ft_ping)| My own ping!
+|[ft_irc](https://github.com/dabel-co/ft_irc)| My own IRC server!
 |[Inception](https://github.com/dabel-co/inception)| Docker shenanigans
 |[C++ (10 projects)](https://github.com/dabel-co/Cplusplus)| C++ from start to finish | Multiple marks
 |[Cub3D](https://github.com/dabel-co/cub3d)| 3D Videogame with RayCaster & miniLibX
